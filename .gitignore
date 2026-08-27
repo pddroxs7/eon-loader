@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docview
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Precompiled headers
+*.pch
+*.ipch
+*.gch
+
+# CMake (if added later)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
