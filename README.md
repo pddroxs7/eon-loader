@@ -8,7 +8,9 @@
 </div>
 
 ---
-![Eon Login UI](preview.png)
+<div align="center">
+<img src="preview.png" width="600"/>
+</div>
 ## Overview
 
 **Eon** is a standalone Windows GUI application shell designed as the authentication frontend for game modification tools. It renders a frameless, rounded, fully custom window using DirectX 11 and Dear ImGui — with no external GUI framework dependencies.
